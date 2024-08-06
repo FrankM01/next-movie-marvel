@@ -2,4 +2,4 @@
 
 declare(strict_types=1);
 
-require_once 'index.php';
+require __DIR__ . '/../index.php';
